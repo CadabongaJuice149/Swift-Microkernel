@@ -1,0 +1,14 @@
+Proprietary End User License Agreement (EULA)
+​Notice: This document governs pre-compiled binaries, user-space utilities, and proprietary layers distributed alongside or integrated within the platform.
+​Section 1: Scope & Hardware Restrictions
+​1.1 License Grant: Apple grants you a limited, non-exclusive, non-transferable personal license to install and run the software strictly on Apple-branded hardware or officially certified target environments owned or controlled by You.
+​1.2 Virtualization Restrictions: Virtualization of OS components outside of Apple-approved hypervisors or deployment layers is strictly prohibited.
+​1.3 Prohibition of Reverse Engineering: You agree not to decompile, reverse-engineer, disassemble, modify, or attempt to derive the source code of any proprietary libraries or binaries designated as non-open components.
+​Section 2: Telemetry and Data Collection
+​2.1 Diagnostics: You agree that Apple and its subsidiaries may collect and use technical, diagnostic, and related telemetry data—including system software and peripheral information—to facilitate security responses, product updates, and service delivery.
+​Section 3: Termination & Enforcement
+​3.1 Termination: This License is effective until terminated. Your rights under this EULA will terminate automatically without notice if you fail to comply with any term(s) herein. Upon termination, you must cease all use and destroy all copies of the proprietary components.
+​Section 4: Disclaimer of Warranties & Limitation of Liability
+​THE PROPRIETARY COMPONENTS ARE PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF MERCHANTABLE QUALITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+​To the extent not prohibited by law, Apple shall not be liable for any incidental, special, indirect, or consequential damages whatsoever, including loss of profits, data, or business interruption arising out of or related to your use or inability to use the software.
+​Document Version: EULA-2026.R1  |  Effective Date: August 2026
